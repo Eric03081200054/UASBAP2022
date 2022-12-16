@@ -1,0 +1,2 @@
+php artisan crud:generate warning_letters --fields='employee_id#integer; nama_karyawan#string; alasan_sp#string;' --view-path=admin --controller-namespace=App\Http\Controllers\Admin --route-group=admin --form-helper=html
+
